@@ -1,0 +1,38 @@
+
+.form{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: 400px;
+    justify-content: space-around;
+    padding: 20px;
+    color: black;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.forminput{
+    color: black;
+    height: 30px;
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+    border: 1px solid rgb(128, 128, 128,0.5) ;
+}
+
+
+.formdiv{
+    display: flex;
+    justify-content: end;
+}
+
+#loginbox{
+    background-color:  #003366;
+    border-radius: 20px;
+}
+
+#loginbox h2{
+    margin: 0px;
+    padding: 20px;
+}
+

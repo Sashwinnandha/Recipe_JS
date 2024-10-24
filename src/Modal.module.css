@@ -1,0 +1,20 @@
+.div{
+    background-color: white;
+    width: 300px;
+    position: absolute;
+    top: 300px;
+    left: 700px;
+    color: black;
+    padding: 25px;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+#close{
+    float: right;
+    background-color: inherit;
+    color: black;
+    font-size: 32px;
+    padding: 0px;
+}
+

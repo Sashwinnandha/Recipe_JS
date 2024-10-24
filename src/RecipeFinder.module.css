@@ -1,0 +1,59 @@
+#formsearch{
+    display: flex;
+    position: absolute;
+    top: 100px;
+    left: 700px;
+}
+
+#formsearch button{
+    background-color: inherit;
+}
+
+#formsearch input{
+    background-color: inherit;
+    border: none;
+    border-bottom: 2px solid white;
+    width: 400px;
+}
+
+#formsearch input:focus{
+    outline: none;
+}
+
+#display{
+    position: absolute;
+    left: 300px;
+    width: 65%;
+    top: 200px;
+    height: 700px;
+    overflow-y: auto;
+}
+
+#display h4{
+    position: relative;
+    left: 50px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(240, 248, 255,0.5);
+}
+
+.flex img,.flex div{
+    width: 25%;
+}
+
+#column{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#buttondiv{
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+}

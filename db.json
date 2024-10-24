@@ -1,0 +1,59 @@
+[
+  {
+    "useremail": "sashwinnandha@gmail.com",
+    "password": "12345",
+    "username": "Sashwin",
+    "wishlist": [
+      "4196e7c3ef538c5c29d640c3f4d1ac54",
+      "3bf20fd757bd45a89ed149db85d081b7",
+      "8123cd55696f4456bde90538e8b81ffe",
+      "c7efb0a67ef7e4a406cbcc3868050090"
+    ]
+  },
+  {
+    "username": "Kousik",
+    "useremail": "kousikdir@gmail.com",
+    "password": "12345",
+    "wishlist": [
+      "74e60bcaec8088384f59883b3ca039b6"
+    ]
+  },
+  {
+    "useremail": "xyz@gmail.com",
+    "password": "12345",
+    "username": "XYZ",
+    "wishlist": [
+      "b27ca60df05dd8e5866b8e7d899f2750"
+    ]
+  },
+  {
+    "requestId": "ZA_cjtgTgX77cjpjpw7_t",
+    "signal": {},
+    "wishlist": [
+      "0f12b66a63ce69cc2b39495a0a7b3ac1"
+    ]
+  },
+  {
+    "useremail": "s",
+    "password": "s",
+    "username": "s",
+    "wishlist": [
+      "dd67981982c7f78aa77bc3ed22f31f41",
+      "498e17b763c84a84a5bb4f5ccaa6735b"
+    ]
+  },
+  {
+    "useremail": "a",
+    "password": "a",
+    "username": "a",
+    "wishlist": []
+  },
+  {
+    "useremail": "kishorekumarv43@gmail.com",
+    "password": "12345",
+    "username": "Kishore",
+    "wishlist": [
+      "cb28aa87bc6a7275f85175191a5a1d45"
+    ]
+  }
+]
