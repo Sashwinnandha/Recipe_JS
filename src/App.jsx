@@ -5,10 +5,9 @@ import Login from './Login'
 import Dashboard from './dashboard'
 import RecipeFinder from './RecipeFinder'
 import RecipeRoot from './RecipeRoot'
-import WishList from './WishList'
-import { wishlistLoader } from './Wishlist'
+import WishList, { wishlistLoader }  from './WishList'
 import UserDetails, { userLoader } from './UserDetails'
-
+//added
 const routes=createBrowserRouter([
   {path:"/",element:<Login/>},
   {path:"/dashboard",element:<RecipeRoot/>,
