@@ -5,7 +5,7 @@ import Login from './Login'
 import Dashboard from './dashboard'
 import RecipeFinder from './RecipeFinder'
 import RecipeRoot from './RecipeRoot'
-import WishList, { wishlistLoader }  from './WishList'
+import WishList, { wishlistLoader }  from './Wishlist'
 import UserDetails, { userLoader } from './UserDetails'
 //added
 const routes=createBrowserRouter([
